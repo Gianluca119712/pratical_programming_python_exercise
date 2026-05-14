@@ -1,6 +1,6 @@
-from lib import convert_mileage
+from lib import lengthOfLongestSubstring
 
 if __name__=='__main__':
-    result = convert_mileage(1000,10)
+    result = lengthOfLongestSubstring("abcabcbb")
     print(result)
 
