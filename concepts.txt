@@ -1,0 +1,3 @@
+SOME CONCEPTS OF CODING
+
+(1) difference between substring and subsequence (->look to exercise leetcode 1)
